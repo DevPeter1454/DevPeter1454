@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate mobile developer from Nigeria</h3>
+<h3 align="center">A passionate software developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpeter1454" alt="devpeter1454" /></a> </p>
 
