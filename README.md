@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **flutter, dart**
+- 💬 Ask me about **flutter, dart , node js**
 
 - 📫 How to reach me **ojopeter36@gmail.com**
 
