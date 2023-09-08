@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpeter1454" alt="devpeter1454" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Fast API**
 
 - 💬 Ask me about **flutter, dart , node js**
 
